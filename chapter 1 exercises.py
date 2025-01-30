@@ -40,4 +40,4 @@ Length (10km in mi): {km_to_mi:.2f} miles
 Pace (seconds): {spm:.2f} seconds
 Pace (minutes + seconds): {mmmmm:.0f} minutes, {msec:.0f} seconds
 Pace (mph): {mph:.0f} miles per hour
-""")
+""") =ass
